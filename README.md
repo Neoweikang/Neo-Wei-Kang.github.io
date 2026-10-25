@@ -1,2 +1,2 @@
-# Neo-Wei-Kang.github.io
+# NeoWeiKang.github.io
 Projects for areas of interest!
